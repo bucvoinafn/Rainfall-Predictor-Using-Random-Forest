@@ -1,1 +1,1 @@
-# Rainfall-Predictor-Using-Random-Forest
+A Rainfall Predictor Using Random Forest algorithm.
